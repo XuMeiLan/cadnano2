@@ -24,6 +24,9 @@ http://www.opensource.org/licenses/mit-license.php
 
 # cadnano DNA Origami Software
 
+## PyQt5 version (2018)
+* To install cadnano2 on newer machines, see this fork: https://github.com/douglaslab/cadnano2/
+
 ## Overview
 [cadnano](http://cadnano.org/) is software for design of 
 [DNA origami](http://en.wikipedia.org/wiki/DNA_origami) nanostructures. 
